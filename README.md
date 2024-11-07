@@ -10,6 +10,11 @@ Este proyecto utiliza [Playwright](https://playwright.dev/) para realizar prueba
 ## Instalación
 
 1. Clona el repositorio y navega al directorio del proyecto.
+
+    ```bash
+    git clone https://github.com/mdoguinz27/challenge-frontend
+    ```
+   
 2. Instala las dependencias con:
 
     ```bash
