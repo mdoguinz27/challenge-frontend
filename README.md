@@ -69,7 +69,7 @@ Este test busca un producto específico (Heladera Samsung) y lo añade al carrit
 Para ejecutar ambos tests, utiliza el siguiente comando:
 
 ```bash
-npm run test_prod            
+npm run tests            
 ````
 
 Este test puede ejecutarse en 3 ambientes diferentes (qa, dev, prod) donde los 2 primeros poseen urls ficticias, al finalizar la ejecución de los tests, se abrirá automaticamente un reporte de la ejecución de los mismos
