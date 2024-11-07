@@ -67,9 +67,10 @@ Este test busca un producto específico (Heladera Samsung) y lo añade al carrit
 ## Ejecución de los Tests
 
 Para ejecutar ambos tests, utiliza el siguiente comando:
+con --headed para que levante la interfaz gráfica (opcional)
 
 ```bash
-npm run tests            
+npm run tests --headed
 ````
 
 Este test puede ejecutarse en 3 ambientes diferentes (qa, dev, prod) donde los 2 primeros poseen urls ficticias, al finalizar la ejecución de los tests, se abrirá automaticamente un reporte de la ejecución de los mismos
