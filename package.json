@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test_prod": "ENV=PROD_URL npx playwright test"
+    "test": "ENV=PROD_URL npx playwright test"
   },
   "keywords": [],
   "author": "",
